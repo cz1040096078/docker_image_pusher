@@ -5,5 +5,4 @@ xhofe/alist:latest
 ypptec/nascab:latest
 rustdesk/rustdesk-server
 vaultwarden/server:testing
-xhofe/alist:latestgswxy/gswxy:1.3
 jxxghp/moviepilot:latest

@@ -6,3 +6,4 @@ ypptec/nascab:latest
 rustdesk/rustdesk-server
 vaultwarden/server:testing
 jxxghp/moviepilot:latest
+aooiu/any-reader

@@ -4,7 +4,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ypptec/nascab:latest
 rustdesk/rustdesk-server:latest
-vaultwarden/server:testing
+vaultwarden/server:testing-alpine
 jxxghp/moviepilot:latest
 aooiu/any-reader:latest
 donknap/dpanel:latest

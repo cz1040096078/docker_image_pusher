@@ -8,3 +8,4 @@ vaultwarden/server:testing-alpine
 jxxghp/moviepilot:latest
 aooiu/any-reader:latest
 donknap/dpanel:latest
+radrootllc/karaoke-eternal

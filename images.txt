@@ -11,3 +11,4 @@ donknap/dpanel:latest
 radrootllc/karaoke-eternal
 1995chen/dnf:centos7-2.1.4.fix1
 xiaoyaliu/alist:latest
+stilleshan/zfile

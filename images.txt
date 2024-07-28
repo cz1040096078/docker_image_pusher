@@ -13,3 +13,4 @@ radrootllc/karaoke-eternal
 xiaoyaliu/alist:latest
 stilleshan/zfile
 ghcr.io/home-assistant/home-assistant:stable
+haroldli/xiaoya-tvbox:latest

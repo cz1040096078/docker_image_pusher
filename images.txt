@@ -1,12 +1,10 @@
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ypptec/nascab:latest
 rustdesk/rustdesk-server:latest
 vaultwarden/server:testing-alpine
 jxxghp/moviepilot:latest
 donknap/dpanel:latest
-radrootllc/karaoke-eternal
 1995chen/dnf:centos7-2.1.4.fix1
 xiaoyaliu/alist:latest
 ghcr.io/home-assistant/home-assistant:stable

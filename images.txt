@@ -10,4 +10,4 @@ radrootllc/karaoke-eternal
 1995chen/dnf:centos7-2.1.4.fix1
 xiaoyaliu/alist:latest
 ghcr.io/home-assistant/home-assistant:stable
-haroldli/xiaoya-tvbox:latest
+xiaoyaliu/glue:latest

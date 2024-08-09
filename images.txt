@@ -11,3 +11,4 @@ ghcr.io/home-assistant/home-assistant:stable
 xiaoyaliu/glue:latest
 haroldli/xiaoya-tvbox:latest
 ionewu/owjdxb
+cloudnas/clouddrive2

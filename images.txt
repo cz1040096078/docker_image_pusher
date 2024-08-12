@@ -12,3 +12,4 @@ xiaoyaliu/glue:latest
 haroldli/xiaoya-tvbox:latest
 ionewu/owjdxb
 cloudnas/clouddrive2
+portainer/portainer-ce:latest

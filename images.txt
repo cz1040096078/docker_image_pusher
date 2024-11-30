@@ -17,3 +17,5 @@ portainer/portainer-ce:latest
 portainer/portainer-ce:2.20.3-alpine
 vaultwarden/server:latest
 6053537/portainer-ce
+youshandefeiyang/allinone
+yuexuangu/allinone_format

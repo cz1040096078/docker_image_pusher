@@ -16,3 +16,5 @@ cloudnas/clouddrive2
 vaultwarden/server:latest
 youshandefeiyang/allinone
 yuexuangu/allinone_format
+homeassistant/home-assistant:dev
+homeassistant/home-assistant:latest

@@ -9,3 +9,4 @@ donknap/dpanel:latest
 vaultwarden/server:latest
 homeassistant/home-assistant:dev
 homeassistant/home-assistant:latest
+1995chen/mysql:5.0.95

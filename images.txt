@@ -8,6 +8,7 @@ vaultwarden/server:testing-alpine
 donknap/dpanel:latest
 vaultwarden/server:latest
 1995chen/mysql:7-5.0.95
+xhongc/music_tag_web:latest
 1995chen/dnf:centos5-2.1.9.fix1
 1995chen/dnf:centos7-2.1.9.fix1
 xhofe/alist:latest

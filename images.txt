@@ -1,5 +1,7 @@
 nginx
 #支持私库
+youshandefeiyang/allinone
+yuexuangu/allinone_format:latest
 homeassistant/home-assistant:dev
 homeassistant/home-assistant:latest
 ypptec/nascab:latest

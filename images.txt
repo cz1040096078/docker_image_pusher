@@ -15,3 +15,4 @@ xhongc/music_tag_web:latest
 1995chen/dnf:centos7-2.1.9.fix1
 xhofe/alist:latest
 ypptec/nascabos
+cloudflare/cloudflared

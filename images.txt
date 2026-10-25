@@ -16,3 +16,6 @@ xhongc/music_tag_web:latest
 xhofe/alist:latest
 ypptec/nascabos
 cloudflare/cloudflared
+budtmo/docker-android:emulator_12.0
+budtmo/docker-android:emulator_11.0
+budtmo/docker-android:emulator_14.0
